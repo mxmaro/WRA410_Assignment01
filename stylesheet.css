@@ -3,15 +3,6 @@ body {
     font-family:  "Helvetica", "Arial", sans-serif;  
 }
 
-.wrapper {
-    background-color: white;
-    padding: 2rem;
-    max-width: 100%;
-    margin: 4rem auto;
-    margin-bottom: -0.5rem;
-    text-align: center;
-}
-
 img {
     max-width: 500px;
 }
@@ -20,10 +11,19 @@ ul {
     margin-top: -1rem;
 }
 
-.pgraphs {
-    margin-top: -1rem;
-}
-
 p {
     max-width: 900px;
+}
+
+.mainheadersandimage {
+    background-color: white;
+    padding: 2rem;
+    max-width: 100%;
+    margin: 4rem auto;
+    margin-bottom: -0.5rem;
+    text-align: center;
+}
+
+.subheader {
+    margin-top: -1rem;
 }
